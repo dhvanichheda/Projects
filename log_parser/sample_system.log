@@ -1,0 +1,13 @@
+2024-11-18 10:15:23 INFO  Server started successfully on port 8080
+2024-11-18 10:15:25 WARN  High memory usage detected: 85%
+2024-11-18 10:15:30 ERROR Failed to connect to database: Connection timeout
+2024-11-18 10:15:45 INFO  User login: user_id=12345
+2024-11-18 10:16:02 ERROR Unable to load configuration file: config.yaml not found
+2024-11-18 10:16:15 DEBUG Database query executed in 152ms
+2024-11-18 10:17:08 INFO  Scheduled job started: job_id=56789
+2024-11-18 10:17:22 ERROR Job failed: job_id=56789, reason=Disk quota exceeded
+2024-11-18 10:17:50 WARN  API response time is slow: 1.25 seconds
+2024-11-18 10:18:12 INFO  User logout: user_id=12345
+2024-11-18 10:18:30 ERROR Unable to authenticate user: Invalid credentials
+2024-11-18 10:19:05 DEBUG Cache refreshed successfully
+2024-11-18 10:20:00 INFO  Server shutdown initiated
